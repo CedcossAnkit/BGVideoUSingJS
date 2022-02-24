@@ -1,0 +1,35 @@
+#vd{
+    position: fixed;
+    height: 900px;
+    width: 1510px;
+    top: -220px;
+    left: 0px;
+}
+p{
+    position: absolute;
+    color: red;
+    top:30px;
+    left:10px;
+
+}
+h1{
+    position: absolute;
+    color: blue;
+    left: 32rem;
+    top:-20px
+}
+
+button{
+    position: absolute;
+    top:350px;
+    left:500px;
+    padding: 20px 40px;
+    color: green;
+    background-color: lightblue;
+    
+}
+button:hover{
+    background-color: lightblue;
+    transition-duration: 2s;
+    border-radius: 80px;
+}
